@@ -1,5 +1,3 @@
-vuln_scanner.py
-
 import os import subprocess from urllib.parse import urlparse
 
 def print_banner(): banner = r'''
